@@ -12,5 +12,6 @@ The source code has been explained in the DNC Magazine, Issue 01. This magazine 
 * Version: 0.0.1
 * Website: [DNC Magazine](http://www.dotnetcurry.com/magazine/)
 * GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/html5canvascharting-dncmag-01/)
+* Demo: [HTML5 Canvas Charts](http://html5canvaschart.apphb.com/CanvasChart.htm)
 
 
